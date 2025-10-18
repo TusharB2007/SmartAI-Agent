@@ -1,0 +1,7 @@
+SmartAI Agent Demo Instructions:
+
+1. Open frontend/index.html in a browser.
+2. Replace 'YOUR_API_ENDPOINT' with your deployed API Gateway URL.
+3. Type messages into the chat input and press Send.
+4. Observe AI responses, timestamps, and animations.
+5. The system should respond to multiple messages consistently.
